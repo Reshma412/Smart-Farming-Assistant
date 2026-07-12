@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "user": "Subhana",
+      "question": "How do you identify early signs of crop diseases?",
+      "tag": "General",
+      "timestamp": "2025-08-09T21:35:55.886724",
+      "image": "20250809213555885734.jpeg",
+      "replies": [
+        {
+          "user": "Harini",
+          "reply": "Leaf changes \u2013 Yellowing, browning, curling, or spots appearing.  Stunted growth \u2013 Plants stop growing as expected.  Wilting \u2013 Leaves droop even when soil has enough moisture.  Unusual spots or patches \u2013 Brown, black, or white marks on leaves, stems, or fruits.  Mold or powdery coating \u2013 White, grey, or black growth on plant surfaces.  Stem or root damage \u2013 Cracks, rot, or soft spots near the base.",
+          "image": null,
+          "timestamp": "2025-08-09T21:37:08.197463"
+        },
+        {
+          "user": "Mahisha",
+          "reply": "I suggest you that  Inspect fields at least twice a week, especially after rains or sudden weather changes, because diseases spread fastest in those conditions.",
+          "image": null,
+          "timestamp": "2025-08-09T21:38:03.947134"
+        }
+      ]
+    },
+    {
+      "user": "Subhana",
+      "question": "which type of soil will be suitable for tomato plant?",
+      "tag": "Soil",
+      "timestamp": "2025-08-20T07:15:03.991259",
+      "image": null,
+      "replies": []
+    },
+    {
+      "user": "ram",
+      "question": "how to protect crops?",
+      "tag": "General",
+      "timestamp": "2025-09-20T16:27:16.254716",
+      "image": null,
+      "replies": []
+    },
+    {
+      "user": "ram",
+      "question": "\u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0ba4\u0bc1?",
+      "tag": "General",
+      "timestamp": "2025-09-29T20:27:00.181874",
+      "image": null,
+      "replies": []
+    }
+  ]
+}

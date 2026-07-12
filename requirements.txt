@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+altair
+torch
+transformers
+Pillow
+deep-translator
+langdetect
+gtts
+groq
+twilio
+numpy
+scikit-learn
